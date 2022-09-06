@@ -1,3 +1,3 @@
 # E-School-website
-figma to html(responsible)
+figma to html(responsive)
 https://fatima736.github.io/E-School-website/
